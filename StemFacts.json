@@ -1,5 +1,4 @@
-{
-  "facts": [
+[
 "Octopuses have three hearts and blue blood",
 "A bolt of lightning is five times hotter than the surface of the sun",
 "The Eiffel Tower grows taller in the summer due to heat expansion",
@@ -206,5 +205,4 @@
 "Astronauts on the ISS see 16 sunrises and sunsets each day",
 "Computer scientists create algorithms to solve problems",
 "Some robots are inspired by insects and animals"
-  ]
-}
+]
